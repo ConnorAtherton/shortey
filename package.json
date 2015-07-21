@@ -1,0 +1,19 @@
+{
+  "name": "shortey",
+  "version": "0.1.0",
+  "description": "A JS abbreviation library.",
+  "main": "dist/abbreviation.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ConnorAtherton/shortey.git"
+  },
+  "author": "Connor Atherton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ConnorAtherton/shortey/issues"
+  },
+  "homepage": "https://github.com/ConnorAtherton/shortey#readme"
+}
